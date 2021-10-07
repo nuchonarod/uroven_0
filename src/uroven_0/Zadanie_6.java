@@ -1,4 +1,4 @@
-package com.company;
+package uroven_0;
 
 public class Zadanie_6 {
     public void zad_6(){

@@ -1,4 +1,4 @@
-package com.company;
+package uroven_0;
 
 import java.util.Scanner;
 
